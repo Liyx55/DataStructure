@@ -1,1 +1,2 @@
-# DataStructure
+# NKU DataStructure
+some practice
